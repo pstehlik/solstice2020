@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+	<Document id="spreadsheet_to_kml_3">
+		<name>
+			<![CDATA[Solstice 2020]]>
+		</name>
+		<visibility>
+			1
+		</visibility>
+		<open>
+			1
+		</open>
+		<author>
+			<name>
+				Highden Temple
+			</name>
+		</author>
+		<link href="http://earth.google.com/outreach" rel="related" />
+		<generator uri="http://www.google.com/earth/outreach/tutorials/spreadsheet3.html" version="3.2">
+			Google Earth Outreach - Spreadsheet Mapper 3.0
+		</generator>
+		<snippet>
+		</snippet>
+		<description>
+			<![CDATA[2020 Solstice Meditation Locations]]>
+		</description>
+		<StyleMap id="style_Template2">
+			<Pair>
+				<key>
+					normal
+				</key>
+				<styleUrl>
+					#style_Template2_normal
+				</styleUrl>
+			</Pair>
+			<Pair>
+				<key>
+					highlight
+				</key>
+				<styleUrl>
+					#style_Template2_highlight
+				</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="style_Template2_normal">
+			<IconStyle>
+				<color>
+					FFFFFFFF
+				</color>
+				<scale>
+					1.1
+				</scale>
+				<Icon>
+					<href>
+						http://maps.google.com/mapfiles/kml/paddle/ylw-diamond.png
+					</href>
+				</Icon>
+				<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<color>
+					FFFFFFFF
+				</color>
+				<scale>
+					0
+				</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<bgColor>
+					FFFFFFFF
+				</bgColor>
+				<text>
+					<![CDATA[<html><body><table width="400"><tr> <td colspan="2"> <span style="font-size:1.5em;"><b>$[Title]</b></span><br> <br> <span style="font-size:1.2em;"><b>$[Subtitle]</b></span><br> $[Paragraph_1_Text]<br> <br> $[Paragraph_2_Text]<br> <a href="$[Link_URL]">$[Link_Text]</a><br> <hr> </td></tr><tr> <td align="left"> For more information, see:<br> <a href="http://www.google.com/earth/outreach">Google Earth Outreach</a><br> </td> <td align="right"><img src="http://www.google.com/landing/newgadgets/static/images/maps-64.png" width="64px" height="64px"></td></tr></table></body></html>]]>
+				</text>
+			</BalloonStyle>
+		</Style>
+		<Style id="style_Template2_highlight">
+			<IconStyle>
+				<color>
+					FFFFFFFF
+				</color>
+				<scale>
+					1.2
+				</scale>
+				<Icon>
+					<href>
+						http://maps.google.com/mapfiles/kml/paddle/ylw-diamond.png
+					</href>
+				</Icon>
+				<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<color>
+					FFFFFFFF
+				</color>
+				<scale>
+					1.2
+				</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<bgColor>
+					FFFFFFFF
+				</bgColor>
+				<text>
+					<![CDATA[<html><body><table width="400"><tr> <td colspan="2"> <span style="font-size:1.5em;"><b>$[Title]</b></span><br> <br> <span style="font-size:1.2em;"><b>$[Subtitle]</b></span><br> $[Paragraph_1_Text]<br> <br> $[Paragraph_2_Text]<br> <a href="$[Link_URL]">$[Link_Text]</a><br> <hr> </td></tr><tr> <td align="left"> For more information, see:<br> <a href="http://www.google.com/earth/outreach">Google Earth Outreach</a><br> </td> <td align="right"><img src="http://www.google.com/landing/newgadgets/static/images/maps-64.png" width="64px" height="64px"></td></tr></table></body></html>]]>
+				</text>
+			</BalloonStyle>
+		</Style>
+		<!-- blank style -->
+		<!-- blank style -->
+		<!-- blank style -->
+		<!-- blank style -->
+		<!-- blank style -->
+		<!-- Custom KML, Top is blank -->
+		<Folder id="folderRow11">
+			<name>
+				<![CDATA[solstice2020]]>
+			</name>
+			<Placemark id="p11">
+				<name>
+					<![CDATA[Highden Temple]]>
+				</name>
+				<snippet>
+				</snippet>
+				<description>
+				</description>
+				<styleUrl>
+					#style_Template2
+				</styleUrl>
+				<ExtendedData>
+					<Data name="Title">
+						<value>
+							<![CDATA[Highden Temple]]>
+						</value>
+					</Data>
+					<Data name="Subtitle">
+						<value>
+							<![CDATA[The dark tower. ]]>
+						</value>
+					</Data>
+					<Data name="Paragraph_1_Text">
+						<value>
+							<![CDATA[Contact: someone@highden]]>
+						</value>
+					</Data>
+					<Data name="Paragraph_2_Text">
+						<value>
+							<![CDATA[]]>
+						</value>
+					</Data>
+					<Data name="Link_URL">
+						<value>
+							<![CDATA[http://lala.com]]>
+						</value>
+					</Data>
+					<Data name="Link_Text">
+						<value>
+							<![CDATA[somthing lalal]]>
+						</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>
+						175.4888751,-40.2820657
+					</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="p12">
+				<name>
+					<![CDATA[Shamballa School Berlin]]>
+				</name>
+				<snippet>
+				</snippet>
+				<description>
+				</description>
+				<styleUrl>
+					#style_Template2
+				</styleUrl>
+				<ExtendedData>
+					<Data name="Title">
+						<value>
+							<![CDATA[Shamballa School Berlin]]>
+						</value>
+					</Data>
+					<Data name="Subtitle">
+						<value>
+							<![CDATA[ognirt]]>
+						</value>
+					</Data>
+					<Data name="Paragraph_1_Text">
+						<value>
+							<![CDATA[Contact: someon in berlin]]>
+						</value>
+					</Data>
+					<Data name="Paragraph_2_Text">
+						<value>
+							<![CDATA[]]>
+						</value>
+					</Data>
+					<Data name="Link_URL">
+						<value>
+							<![CDATA[http://lala.com]]>
+						</value>
+					</Data>
+					<Data name="Link_Text">
+						<value>
+							<![CDATA[somthing lalal]]>
+						</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>
+						13.2846508,52.5067614
+					</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="p13">
+				<name>
+					<![CDATA[Byron Bay]]>
+				</name>
+				<snippet>
+				</snippet>
+				<description>
+				</description>
+				<styleUrl>
+					#style_Template2
+				</styleUrl>
+				<ExtendedData>
+					<Data name="Title">
+						<value>
+							<![CDATA[Byron Bay]]>
+						</value>
+					</Data>
+					<Data name="Subtitle">
+						<value>
+							<![CDATA[gerger]]>
+						</value>
+					</Data>
+					<Data name="Paragraph_1_Text">
+						<value>
+							<![CDATA[Contact: someon in byron bay]]>
+						</value>
+					</Data>
+					<Data name="Paragraph_2_Text">
+						<value>
+							<![CDATA[]]>
+						</value>
+					</Data>
+					<Data name="Link_URL">
+						<value>
+							<![CDATA[http://lala.com]]>
+						</value>
+					</Data>
+					<Data name="Link_Text">
+						<value>
+							<![CDATA[somthing lalal]]>
+						</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>
+						153.5853867,-28.6468671
+					</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="p14">
+				<name>
+					<![CDATA[San Francisco Bay Area]]>
+				</name>
+				<snippet>
+				</snippet>
+				<description>
+				</description>
+				<styleUrl>
+					#style_Template2
+				</styleUrl>
+				<ExtendedData>
+					<Data name="Title">
+						<value>
+							<![CDATA[San Francisco Bay Area]]>
+						</value>
+					</Data>
+					<Data name="Subtitle">
+						<value>
+							<![CDATA[gregtrhrty]]>
+						</value>
+					</Data>
+					<Data name="Paragraph_1_Text">
+						<value>
+							<![CDATA[someone in SF]]>
+						</value>
+					</Data>
+					<Data name="Paragraph_2_Text">
+						<value>
+							<![CDATA[]]>
+						</value>
+					</Data>
+					<Data name="Link_URL">
+						<value>
+							<![CDATA[http://lala.com]]>
+						</value>
+					</Data>
+					<Data name="Link_Text">
+						<value>
+							<![CDATA[somthing lalal]]>
+						</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>
+						-122.4244501,37.7757365
+					</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="p15">
+				<name>
+					<![CDATA[Montreal]]>
+				</name>
+				<snippet>
+				</snippet>
+				<description>
+				</description>
+				<styleUrl>
+					#style_Template2
+				</styleUrl>
+				<ExtendedData>
+					<Data name="Title">
+						<value>
+							<![CDATA[Montreal, Canada]]>
+						</value>
+					</Data>
+					<Data name="Subtitle">
+						<value>
+							<![CDATA[56ujety]]>
+						</value>
+					</Data>
+					<Data name="Paragraph_1_Text">
+						<value>
+							<![CDATA[someone in Montreal]]>
+						</value>
+					</Data>
+					<Data name="Paragraph_2_Text">
+						<value>
+							<![CDATA[]]>
+						</value>
+					</Data>
+					<Data name="Link_URL">
+						<value>
+							<![CDATA[http://lala.com]]>
+						</value>
+					</Data>
+					<Data name="Link_Text">
+						<value>
+							<![CDATA[somthing lalal]]>
+						</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>
+						-73.8703843,45.5579564
+					</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<!-- Custom KML, Bottom is blank -->
+	</Document>
+</kml>

@@ -16,6 +16,9 @@
 			</name>
 		</author>
 		<link href="https://www.highdentemple.org/" rel="related" />
+		<generator uri="http://www.google.com/earth/outreach/tutorials/spreadsheet3.html" version="3.2">
+			Google Earth Outreach - Spreadsheet Mapper 3.0
+		</generator>
 		<snippet>
 		</snippet>
 		<description>
@@ -67,7 +70,7 @@
 					FFFFFFFF
 				</bgColor>
 				<text>
-					<![CDATA[<html><body><table width="400"><tr> <td colspan="2"> <span style="font-size:1.4em;"><b>$[Title]</b></span><br> <br> <span style="font-size:1.2em;"><b>$[Subtitle]</b></span><br> $[Other_Embed_Code]<br> <br> $[Paragraph_Text]<br> <a href="$[Link_URL]">$[Link_Text]</a> <hr> </td></tr></table></body></html>]]>
+					<![CDATA[<html><body><table width="400"><tr> <td colspan="2"> <span style="font-size:1.4em;"><b>$[Title]</b></span><br> <br> <span style="font-size:1.2em;"><b>$[Subtitle]</b></span><br> $[Other_Embed_Code]<br> <br> $[Paragraph_Text]<br> <a href="$[Link_URL]">$[Link_Text]</a> <hr> </td></tr><tr> <td align="left"><a href="http://www.google.com/earth/outreach">Google Earth Outreach</a></td> <td align="right"><span style="color:#999999;">&copy;2012 My Organization</span></td></tr></table></body></html>]]>
 				</text>
 			</BalloonStyle>
 		</Style>
@@ -99,7 +102,7 @@
 					FFFFFFFF
 				</bgColor>
 				<text>
-					<![CDATA[<html><body><table width="400"><tr> <td colspan="2"> <span style="font-size:1.4em;"><b>$[Title]</b></span><br> <br> <span style="font-size:1.2em;"><b>$[Subtitle]</b></span><br> $[Other_Embed_Code]<br> <br> $[Paragraph_Text]<br> <a href="$[Link_URL]">$[Link_Text]</a> <hr> </td></tr></table></body></html>]]>
+					<![CDATA[<html><body><table width="400"><tr> <td colspan="2"> <span style="font-size:1.4em;"><b>$[Title]</b></span><br> <br> <span style="font-size:1.2em;"><b>$[Subtitle]</b></span><br> $[Other_Embed_Code]<br> <br> $[Paragraph_Text]<br> <a href="$[Link_URL]">$[Link_Text]</a> <hr> </td></tr><tr> <td align="left"><a href="http://www.google.com/earth/outreach">Google Earth Outreach</a></td> <td align="right"><span style="color:#999999;">&copy;2012 My Organization</span></td></tr></table></body></html>]]>
 				</text>
 			</BalloonStyle>
 		</Style>
@@ -258,7 +261,7 @@
 		</Placemark>
 		<Placemark id="p14">
 			<name>
-				<![CDATA[San Francisco Bay Area 12]]>
+				<![CDATA[San Francisco Bay Area 1234]]>
 			</name>
 			<snippet>
 			</snippet>
@@ -270,7 +273,7 @@
 			<ExtendedData>
 				<Data name="Title">
 					<value>
-						<![CDATA[San Francisco Bay Area 12]]>
+						<![CDATA[San Francisco Bay Area 1234]]>
 					</value>
 				</Data>
 				<Data name="Subtitle">

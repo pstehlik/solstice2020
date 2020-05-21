@@ -258,7 +258,7 @@
 		</Placemark>
 		<Placemark id="p14">
 			<name>
-				<![CDATA[San Francisco Bay Area]]>
+				<![CDATA[San Francisco Bay Area 12]]>
 			</name>
 			<snippet>
 			</snippet>
@@ -270,7 +270,7 @@
 			<ExtendedData>
 				<Data name="Title">
 					<value>
-						<![CDATA[San Francisco Bay Area]]>
+						<![CDATA[San Francisco Bay Area 12]]>
 					</value>
 				</Data>
 				<Data name="Subtitle">

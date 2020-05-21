@@ -24,13 +24,13 @@
 		<description>
 			<![CDATA[2020 Solstice Meditation Locations]]>
 		</description>
-		<StyleMap id="style_Template2">
+		<StyleMap id="style_Template6">
 			<Pair>
 				<key>
 					normal
 				</key>
 				<styleUrl>
-					#style_Template2_normal
+					#style_Template6_normal
 				</styleUrl>
 			</Pair>
 			<Pair>
@@ -38,11 +38,11 @@
 					highlight
 				</key>
 				<styleUrl>
-					#style_Template2_highlight
+					#style_Template6_highlight
 				</styleUrl>
 			</Pair>
 		</StyleMap>
-		<Style id="style_Template2_normal">
+		<Style id="style_Template6_normal">
 			<IconStyle>
 				<color>
 					FFFFFFFF
@@ -52,7 +52,7 @@
 				</scale>
 				<Icon>
 					<href>
-						http://maps.google.com/mapfiles/kml/paddle/ylw-diamond.png
+						http://maps.google.com/mapfiles/kml/paddle/pink-diamond.png
 					</href>
 				</Icon>
 				<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction" />
@@ -70,11 +70,11 @@
 					FFFFFFFF
 				</bgColor>
 				<text>
-					<![CDATA[<html><body><table width="400"><tr> <td colspan="2"> <span style="font-size:1.5em;"><b>$[Title]</b></span><br> <br> <span style="font-size:1.2em;"><b>$[Subtitle]</b></span><br> $[Paragraph_1_Text]<br> <br> $[Paragraph_2_Text]<br> <a href="$[Link_URL]">$[Link_Text]</a><br> <hr> </td></tr><tr> <td align="left"> For more information, see:<br> <a href="http://www.google.com/earth/outreach">Google Earth Outreach</a><br> </td> <td align="right"><img src="http://www.google.com/landing/newgadgets/static/images/maps-64.png" width="64px" height="64px"></td></tr></table></body></html>]]>
+					<![CDATA[<html><body><table width="400"><tr> <td colspan="2"> <span style="font-size:1.4em;"><b>$[Title]</b></span><br> <br> <span style="font-size:1.2em;"><b>$[Subtitle]</b></span><br> $[Other_Embed_Code]<br> <br> $[Paragraph_Text]<br> <a href="$[Link_URL]">$[Link_Text]</a> <hr> </td></tr><tr> <td align="left"><a href="http://www.google.com/earth/outreach">Google Earth Outreach</a></td> <td align="right"><span style="color:#999999;">&copy;2012 My Organization</span></td></tr></table></body></html>]]>
 				</text>
 			</BalloonStyle>
 		</Style>
-		<Style id="style_Template2_highlight">
+		<Style id="style_Template6_highlight">
 			<IconStyle>
 				<color>
 					FFFFFFFF
@@ -84,7 +84,7 @@
 				</scale>
 				<Icon>
 					<href>
-						http://maps.google.com/mapfiles/kml/paddle/ylw-diamond.png
+						http://maps.google.com/mapfiles/kml/paddle/pink-diamond.png
 					</href>
 				</Icon>
 				<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction" />
@@ -102,7 +102,7 @@
 					FFFFFFFF
 				</bgColor>
 				<text>
-					<![CDATA[<html><body><table width="400"><tr> <td colspan="2"> <span style="font-size:1.5em;"><b>$[Title]</b></span><br> <br> <span style="font-size:1.2em;"><b>$[Subtitle]</b></span><br> $[Paragraph_1_Text]<br> <br> $[Paragraph_2_Text]<br> <a href="$[Link_URL]">$[Link_Text]</a><br> <hr> </td></tr><tr> <td align="left"> For more information, see:<br> <a href="http://www.google.com/earth/outreach">Google Earth Outreach</a><br> </td> <td align="right"><img src="http://www.google.com/landing/newgadgets/static/images/maps-64.png" width="64px" height="64px"></td></tr></table></body></html>]]>
+					<![CDATA[<html><body><table width="400"><tr> <td colspan="2"> <span style="font-size:1.4em;"><b>$[Title]</b></span><br> <br> <span style="font-size:1.2em;"><b>$[Subtitle]</b></span><br> $[Other_Embed_Code]<br> <br> $[Paragraph_Text]<br> <a href="$[Link_URL]">$[Link_Text]</a> <hr> </td></tr><tr> <td align="left"><a href="http://www.google.com/earth/outreach">Google Earth Outreach</a></td> <td align="right"><span style="color:#999999;">&copy;2012 My Organization</span></td></tr></table></body></html>]]>
 				</text>
 			</BalloonStyle>
 		</Style>
@@ -121,7 +121,7 @@
 			<description>
 			</description>
 			<styleUrl>
-				#style_Template2
+				#style_Template6
 			</styleUrl>
 			<ExtendedData>
 				<Data name="Title">
@@ -134,12 +134,12 @@
 						<![CDATA[The dark tower. ]]>
 					</value>
 				</Data>
-				<Data name="Paragraph_1_Text">
+				<Data name="Other_Embed_Code">
 					<value>
 						<![CDATA[]]>
 					</value>
 				</Data>
-				<Data name="Paragraph_2_Text">
+				<Data name="Paragraph_Text">
 					<value>
 						<![CDATA[Contact: someone@highden]]>
 					</value>
@@ -170,7 +170,7 @@
 			<description>
 			</description>
 			<styleUrl>
-				#style_Template2
+				#style_Template6
 			</styleUrl>
 			<ExtendedData>
 				<Data name="Title">
@@ -183,12 +183,12 @@
 						<![CDATA[ognirt]]>
 					</value>
 				</Data>
-				<Data name="Paragraph_1_Text">
+				<Data name="Other_Embed_Code">
 					<value>
 						<![CDATA[]]>
 					</value>
 				</Data>
-				<Data name="Paragraph_2_Text">
+				<Data name="Paragraph_Text">
 					<value>
 						<![CDATA[Contact: someon in berlin]]>
 					</value>
@@ -219,7 +219,7 @@
 			<description>
 			</description>
 			<styleUrl>
-				#style_Template2
+				#style_Template6
 			</styleUrl>
 			<ExtendedData>
 				<Data name="Title">
@@ -232,12 +232,12 @@
 						<![CDATA[gerger]]>
 					</value>
 				</Data>
-				<Data name="Paragraph_1_Text">
+				<Data name="Other_Embed_Code">
 					<value>
 						<![CDATA[]]>
 					</value>
 				</Data>
-				<Data name="Paragraph_2_Text">
+				<Data name="Paragraph_Text">
 					<value>
 						<![CDATA[Contact: someon in byron bay]]>
 					</value>
@@ -268,7 +268,7 @@
 			<description>
 			</description>
 			<styleUrl>
-				#style_Template2
+				#style_Template6
 			</styleUrl>
 			<ExtendedData>
 				<Data name="Title">
@@ -281,12 +281,12 @@
 						<![CDATA[gregtrhrty]]>
 					</value>
 				</Data>
-				<Data name="Paragraph_1_Text">
+				<Data name="Other_Embed_Code">
 					<value>
 						<![CDATA[]]>
 					</value>
 				</Data>
-				<Data name="Paragraph_2_Text">
+				<Data name="Paragraph_Text">
 					<value>
 						<![CDATA[someone in SF]]>
 					</value>
@@ -317,7 +317,7 @@
 			<description>
 			</description>
 			<styleUrl>
-				#style_Template2
+				#style_Template6
 			</styleUrl>
 			<ExtendedData>
 				<Data name="Title">
@@ -330,12 +330,12 @@
 						<![CDATA[56ujety]]>
 					</value>
 				</Data>
-				<Data name="Paragraph_1_Text">
+				<Data name="Other_Embed_Code">
 					<value>
 						<![CDATA[]]>
 					</value>
 				</Data>
-				<Data name="Paragraph_2_Text">
+				<Data name="Paragraph_Text">
 					<value>
 						<![CDATA[someone in Montreal]]>
 					</value>

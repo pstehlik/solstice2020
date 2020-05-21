@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Placemark>
+<name>Highden Temple</name>
+<description>Highden temple. contact user@aol.com</description>
+<Point>
+<coordinates>175.49572817981246,-40.286566212161475,0</coordinates>
+</Point>
+</Placemark>
+</kml>

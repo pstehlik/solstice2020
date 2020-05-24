@@ -52,7 +52,7 @@
 				</scale>
 				<Icon>
 					<href>
-						http://maps.google.com/mapfiles/kml/paddle/wht-diamond.png
+						http://maps.google.com/mapfiles/kml/shapes/firedept.png
 					</href>
 				</Icon>
 				<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction" />
@@ -70,7 +70,7 @@
 					FFFFFFFF
 				</bgColor>
 				<text>
-					<![CDATA[<html><body><table width="300"><tr> <td colspan="2"> <span style="font-size:1.4em;"><b>$[Title]</b></span><br> <br> <span style="font-size:0.1em;"><b>$[Subtitle]</b></span><br> $[Other_Embed_Code]<br> <br> $[Paragraph_Text]<br> <a href="$[Link_URL]">$[Link_Text]</a> <hr> </td></tr><tr> <td align="left"><a href="https://www.wildlovemovement.com/">Wild Love Movement</a></td> <td align="right"><span style="color:#999999;">Wild Love 2020</span></td></tr></table></body></html>]]>
+					<![CDATA[<html><body><table width="300"><tr> <td colspan="2"> <span style="font-size:1.4em;"><b>$[Title]</b></span> <br> $[Paragraph_Text]<br> <a href="$[Link_URL]">$[Link_Text]</a> <hr> </td></tr><tr> <td align="left"><a href="https://www.wildlovemovement.com/">Wild Love Movement</a></td> <td align="right"><span style="color:#999999;">Wild Love 2020</span></td></tr></table></body></html>]]>
 				</text>
 			</BalloonStyle>
 		</Style>
@@ -84,7 +84,7 @@
 				</scale>
 				<Icon>
 					<href>
-						http://maps.google.com/mapfiles/kml/paddle/wht-diamond.png
+						http://maps.google.com/mapfiles/kml/shapes/firedept.png
 					</href>
 				</Icon>
 				<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction" />
@@ -102,7 +102,7 @@
 					FFFFFFFF
 				</bgColor>
 				<text>
-					<![CDATA[<html><body><table width="300"><tr> <td colspan="2"> <span style="font-size:1.4em;"><b>$[Title]</b></span><br> <br> <span style="font-size:0.1em;"><b>$[Subtitle]</b></span><br> $[Other_Embed_Code]<br> <br> $[Paragraph_Text]<br> <a href="$[Link_URL]">$[Link_Text]</a> <hr> </td></tr><tr> <td align="left"><a href="https://www.wildlovemovement.com/">Wild Love Movement</a></td> <td align="right"><span style="color:#999999;">Wild Love 2020</span></td></tr></table></body></html>]]>
+					<![CDATA[<html><body><table width="300"><tr> <td colspan="2"> <span style="font-size:1.4em;"><b>$[Title]</b></span> <br> $[Paragraph_Text]<br> <a href="$[Link_URL]">$[Link_Text]</a> <hr> </td></tr><tr> <td align="left"><a href="https://www.wildlovemovement.com/">Wild Love Movement</a></td> <td align="right"><span style="color:#999999;">Wild Love 2020</span></td></tr></table></body></html>]]>
 				</text>
 			</BalloonStyle>
 		</Style>

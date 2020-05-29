@@ -112,363 +112,1065 @@
 		<!-- blank style -->
 		<!-- blank style -->
 		<!-- Custom KML, Top is blank -->
-		<Placemark id="p11">
+		<Folder id="folderRow11">
 			<name>
-				<![CDATA[San Francisco Bay Area]]>
+				<![CDATA[USA]]>
 			</name>
-			<snippet>
-			</snippet>
-			<description>
-			</description>
-			<styleUrl>
-				#style_Template6
-			</styleUrl>
-			<ExtendedData>
-				<Data name="Title">
-					<value>
-						<![CDATA[San Francisco Bay Area, California]]>
-					</value>
-				</Data>
-				<Data name="Subtitle">
-					<value>
-						<![CDATA[]]>
-					</value>
-				</Data>
-				<Data name="Other_Embed_Code">
-					<value>
-						<![CDATA[]]>
-					</value>
-				</Data>
-				<Data name="Paragraph_Text">
-					<value>
-						<![CDATA[Kaine Wakiyama - kainewnewton@gmail.com]]>
-					</value>
-				</Data>
-				<Data name="Link_URL">
-					<value>
-						<![CDATA[]]>
-					</value>
-				</Data>
-				<Data name="Link_Text">
-					<value>
-						<![CDATA[]]>
-					</value>
-				</Data>
-			</ExtendedData>
-			<Point>
-				<coordinates>
-					-122.4244501,37.7757365
-				</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark id="p12">
+			<Placemark id="p11">
+				<name>
+					<![CDATA[San Francisco Bay Area]]>
+				</name>
+				<snippet>
+				</snippet>
+				<description>
+				</description>
+				<styleUrl>
+					#style_Template6
+				</styleUrl>
+				<ExtendedData>
+					<Data name="Title">
+						<value>
+							<![CDATA[San Francisco Bay Area, California]]>
+						</value>
+					</Data>
+					<Data name="Subtitle">
+						<value>
+							<![CDATA[]]>
+						</value>
+					</Data>
+					<Data name="Other_Embed_Code">
+						<value>
+							<![CDATA[]]>
+						</value>
+					</Data>
+					<Data name="Paragraph_Text">
+						<value>
+							<![CDATA[Kaine Wakiyama - kainewnewton@gmail.com]]>
+						</value>
+					</Data>
+					<Data name="Link_URL">
+						<value>
+							<![CDATA[]]>
+						</value>
+					</Data>
+					<Data name="Link_Text">
+						<value>
+							<![CDATA[]]>
+						</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>
+						-122.4244501,37.7757365
+					</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder id="folderRow12">
 			<name>
-				<![CDATA[Montreal]]>
+				<![CDATA[Canada]]>
 			</name>
-			<snippet>
-			</snippet>
-			<description>
-			</description>
-			<styleUrl>
-				#style_Template6
-			</styleUrl>
-			<ExtendedData>
-				<Data name="Title">
-					<value>
-						<![CDATA[Montreal, Canada]]>
-					</value>
-				</Data>
-				<Data name="Subtitle">
-					<value>
-						<![CDATA[]]>
-					</value>
-				</Data>
-				<Data name="Other_Embed_Code">
-					<value>
-						<![CDATA[]]>
-					</value>
-				</Data>
-				<Data name="Paragraph_Text">
-					<value>
-						<![CDATA[Stephane Ce - stephane@labocrete.com]]>
-					</value>
-				</Data>
-				<Data name="Link_URL">
-					<value>
-						<![CDATA[]]>
-					</value>
-				</Data>
-				<Data name="Link_Text">
-					<value>
-						<![CDATA[]]>
-					</value>
-				</Data>
-			</ExtendedData>
-			<Point>
-				<coordinates>
-					-73.8703843,45.5579564
-				</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark id="p13">
+			<Placemark id="p12">
+				<name>
+					<![CDATA[Montreal]]>
+				</name>
+				<snippet>
+				</snippet>
+				<description>
+				</description>
+				<styleUrl>
+					#style_Template6
+				</styleUrl>
+				<ExtendedData>
+					<Data name="Title">
+						<value>
+							<![CDATA[Montreal, Canada]]>
+						</value>
+					</Data>
+					<Data name="Subtitle">
+						<value>
+							<![CDATA[]]>
+						</value>
+					</Data>
+					<Data name="Other_Embed_Code">
+						<value>
+							<![CDATA[]]>
+						</value>
+					</Data>
+					<Data name="Paragraph_Text">
+						<value>
+							<![CDATA[Stephane Ce - stephane@labocrete.com]]>
+						</value>
+					</Data>
+					<Data name="Link_URL">
+						<value>
+							<![CDATA[]]>
+						</value>
+					</Data>
+					<Data name="Link_Text">
+						<value>
+							<![CDATA[]]>
+						</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>
+						-73.8703843,45.5579564
+					</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder id="folderRow13">
 			<name>
-				<![CDATA[New York City]]>
+				<![CDATA[USA]]>
 			</name>
-			<snippet>
-			</snippet>
-			<description>
-			</description>
-			<styleUrl>
-				#style_Template6
-			</styleUrl>
-			<ExtendedData>
-				<Data name="Title">
-					<value>
-						<![CDATA[New York City, New York]]>
-					</value>
-				</Data>
-				<Data name="Subtitle">
-					<value>
-						<![CDATA[]]>
-					</value>
-				</Data>
-				<Data name="Other_Embed_Code">
-					<value>
-						<![CDATA[]]>
-					</value>
-				</Data>
-				<Data name="Paragraph_Text">
-					<value>
-						<![CDATA[Kay Nik - info@magiya.co]]>
-					</value>
-				</Data>
-				<Data name="Link_URL">
-					<value>
-						<![CDATA[]]>
-					</value>
-				</Data>
-				<Data name="Link_Text">
-					<value>
-						<![CDATA[]]>
-					</value>
-				</Data>
-			</ExtendedData>
-			<Point>
-				<coordinates>
-					-74.1197633,40.6974034
-				</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark id="p14">
+			<Placemark id="p13">
+				<name>
+					<![CDATA[New York City]]>
+				</name>
+				<snippet>
+				</snippet>
+				<description>
+				</description>
+				<styleUrl>
+					#style_Template6
+				</styleUrl>
+				<ExtendedData>
+					<Data name="Title">
+						<value>
+							<![CDATA[New York City, New York]]>
+						</value>
+					</Data>
+					<Data name="Subtitle">
+						<value>
+							<![CDATA[]]>
+						</value>
+					</Data>
+					<Data name="Other_Embed_Code">
+						<value>
+							<![CDATA[]]>
+						</value>
+					</Data>
+					<Data name="Paragraph_Text">
+						<value>
+							<![CDATA[Kay Nik - info@magiya.co]]>
+						</value>
+					</Data>
+					<Data name="Link_URL">
+						<value>
+							<![CDATA[]]>
+						</value>
+					</Data>
+					<Data name="Link_Text">
+						<value>
+							<![CDATA[]]>
+						</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>
+						-74.1197633,40.6974034
+					</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="p14">
+				<name>
+					<![CDATA[Longmont, Colorado]]>
+				</name>
+				<snippet>
+				</snippet>
+				<description>
+				</description>
+				<styleUrl>
+					#style_Template6
+				</styleUrl>
+				<ExtendedData>
+					<Data name="Title">
+						<value>
+							<![CDATA[Longmont, Colorado]]>
+						</value>
+					</Data>
+					<Data name="Subtitle">
+						<value>
+							<![CDATA[]]>
+						</value>
+					</Data>
+					<Data name="Other_Embed_Code">
+						<value>
+							<![CDATA[]]>
+						</value>
+					</Data>
+					<Data name="Paragraph_Text">
+						<value>
+							<![CDATA[Chris Emerson - thisischrisemerson@gmail.com]]>
+						</value>
+					</Data>
+					<Data name="Link_URL">
+						<value>
+							<![CDATA[]]>
+						</value>
+					</Data>
+					<Data name="Link_Text">
+						<value>
+							<![CDATA[]]>
+						</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>
+						-105.2379369,40.1678746
+					</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="p15">
+				<name>
+					<![CDATA[Hilo, Hawaii]]>
+				</name>
+				<snippet>
+				</snippet>
+				<description>
+				</description>
+				<styleUrl>
+					#style_Template6
+				</styleUrl>
+				<ExtendedData>
+					<Data name="Title">
+						<value>
+							<![CDATA[Hilo,Hawaii]]>
+						</value>
+					</Data>
+					<Data name="Subtitle">
+						<value>
+							<![CDATA[]]>
+						</value>
+					</Data>
+					<Data name="Other_Embed_Code">
+						<value>
+							<![CDATA[]]>
+						</value>
+					</Data>
+					<Data name="Paragraph_Text">
+						<value>
+							<![CDATA[Catherine Becker - lalama128@gmail.com]]>
+						</value>
+					</Data>
+					<Data name="Link_URL">
+						<value>
+							<![CDATA[]]>
+						</value>
+					</Data>
+					<Data name="Link_Text">
+						<value>
+							<![CDATA[]]>
+						</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>
+						-155.1249539,19.6865946
+					</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="p16">
+				<name>
+					<![CDATA[Ashland, Oregon]]>
+				</name>
+				<snippet>
+				</snippet>
+				<description>
+				</description>
+				<styleUrl>
+					#style_Template6
+				</styleUrl>
+				<ExtendedData>
+					<Data name="Title">
+						<value>
+							<![CDATA[Ashland, Oregon]]>
+						</value>
+					</Data>
+					<Data name="Subtitle">
+						<value>
+							<![CDATA[]]>
+						</value>
+					</Data>
+					<Data name="Other_Embed_Code">
+						<value>
+							<![CDATA[]]>
+						</value>
+					</Data>
+					<Data name="Paragraph_Text">
+						<value>
+							<![CDATA[Howie (Dragon13@mind.net)]]>
+						</value>
+					</Data>
+					<Data name="Link_URL">
+						<value>
+							<![CDATA[]]>
+						</value>
+					</Data>
+					<Data name="Link_Text">
+						<value>
+							<![CDATA[]]>
+						</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>
+						-122.7110231,42.1916754
+					</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="p17">
+				<name>
+					<![CDATA[Portland,Oregon]]>
+				</name>
+				<snippet>
+				</snippet>
+				<description>
+				</description>
+				<styleUrl>
+					#style_Template6
+				</styleUrl>
+				<ExtendedData>
+					<Data name="Title">
+						<value>
+							<![CDATA[Portland,Oregon]]>
+						</value>
+					</Data>
+					<Data name="Subtitle">
+						<value>
+							<![CDATA[]]>
+						</value>
+					</Data>
+					<Data name="Other_Embed_Code">
+						<value>
+							<![CDATA[]]>
+						</value>
+					</Data>
+					<Data name="Paragraph_Text">
+						<value>
+							<![CDATA[Hanna Dornhofer (hannamaus@gmail.com)]]>
+						</value>
+					</Data>
+					<Data name="Link_URL">
+						<value>
+							<![CDATA[]]>
+						</value>
+					</Data>
+					<Data name="Link_Text">
+						<value>
+							<![CDATA[]]>
+						</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>
+						-122.7944089,45.5426274
+					</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder id="folderRow18">
 			<name>
-				<![CDATA[Longmont, Colorado]]>
+				<![CDATA[Australia]]>
 			</name>
-			<snippet>
-			</snippet>
-			<description>
-			</description>
-			<styleUrl>
-				#style_Template6
-			</styleUrl>
-			<ExtendedData>
-				<Data name="Title">
-					<value>
-						<![CDATA[Longmont, Colorado]]>
-					</value>
-				</Data>
-				<Data name="Subtitle">
-					<value>
-						<![CDATA[]]>
-					</value>
-				</Data>
-				<Data name="Other_Embed_Code">
-					<value>
-						<![CDATA[]]>
-					</value>
-				</Data>
-				<Data name="Paragraph_Text">
-					<value>
-						<![CDATA[Chris Emerson - thisischrisemerson@gmail.com]]>
-					</value>
-				</Data>
-				<Data name="Link_URL">
-					<value>
-						<![CDATA[]]>
-					</value>
-				</Data>
-				<Data name="Link_Text">
-					<value>
-						<![CDATA[]]>
-					</value>
-				</Data>
-			</ExtendedData>
-			<Point>
-				<coordinates>
-					-105.2379369,40.1678746
-				</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark id="p15">
+			<Placemark id="p18">
+				<name>
+					<![CDATA[Kangaroo Ground, Victoria]]>
+				</name>
+				<snippet>
+				</snippet>
+				<description>
+				</description>
+				<styleUrl>
+					#style_Template6
+				</styleUrl>
+				<ExtendedData>
+					<Data name="Title">
+						<value>
+							<![CDATA[Kangaroo Ground, Victoria]]>
+						</value>
+					</Data>
+					<Data name="Subtitle">
+						<value>
+							<![CDATA[]]>
+						</value>
+					</Data>
+					<Data name="Other_Embed_Code">
+						<value>
+							<![CDATA[]]>
+						</value>
+					</Data>
+					<Data name="Paragraph_Text">
+						<value>
+							<![CDATA[Phoenix Onesong Marolda]]>
+						</value>
+					</Data>
+					<Data name="Link_URL">
+						<value>
+							<![CDATA[]]>
+						</value>
+					</Data>
+					<Data name="Link_Text">
+						<value>
+							<![CDATA[]]>
+						</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>
+						145.1638297,-37.6911487
+					</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="p19">
+				<name>
+					<![CDATA[Melburne, Victoria]]>
+				</name>
+				<snippet>
+				</snippet>
+				<description>
+				</description>
+				<styleUrl>
+					#style_Template6
+				</styleUrl>
+				<ExtendedData>
+					<Data name="Title">
+						<value>
+							<![CDATA[Melburne, Victoria ]]>
+						</value>
+					</Data>
+					<Data name="Subtitle">
+						<value>
+							<![CDATA[]]>
+						</value>
+					</Data>
+					<Data name="Other_Embed_Code">
+						<value>
+							<![CDATA[]]>
+						</value>
+					</Data>
+					<Data name="Paragraph_Text">
+						<value>
+							<![CDATA[Stephanie Phillips - stephanie@tantricsynergy.com.au Jana Inuit - janainuit@gmail.com]]>
+						</value>
+					</Data>
+					<Data name="Link_URL">
+						<value>
+							<![CDATA[]]>
+						</value>
+					</Data>
+					<Data name="Link_Text">
+						<value>
+							<![CDATA[]]>
+						</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>
+						144.7729562,-37.9722342
+					</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="p20">
+				<name>
+					<![CDATA[Highden, New Zealand]]>
+				</name>
+				<snippet>
+				</snippet>
+				<description>
+				</description>
+				<styleUrl>
+					#style_Template6
+				</styleUrl>
+				<ExtendedData>
+					<Data name="Title">
+						<value>
+							<![CDATA[Highden, New Zealand]]>
+						</value>
+					</Data>
+					<Data name="Subtitle">
+						<value>
+							<![CDATA[]]>
+						</value>
+					</Data>
+					<Data name="Other_Embed_Code">
+						<value>
+							<![CDATA[]]>
+						</value>
+					</Data>
+					<Data name="Paragraph_Text">
+						<value>
+							<![CDATA[Aleasha and Winter - highdentemple@gmail.com]]>
+						</value>
+					</Data>
+					<Data name="Link_URL">
+						<value>
+							<![CDATA[]]>
+						</value>
+					</Data>
+					<Data name="Link_Text">
+						<value>
+							<![CDATA[]]>
+						</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>
+						175.4963673,-40.287662
+					</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder id="folderRow21">
 			<name>
-				<![CDATA[Hilo, Hawaii]]>
+				<![CDATA[Northern Europe]]>
 			</name>
-			<snippet>
-			</snippet>
-			<description>
-			</description>
-			<styleUrl>
-				#style_Template6
-			</styleUrl>
-			<ExtendedData>
-				<Data name="Title">
-					<value>
-						<![CDATA[Hilo,Hawaii]]>
-					</value>
-				</Data>
-				<Data name="Subtitle">
-					<value>
-						<![CDATA[]]>
-					</value>
-				</Data>
-				<Data name="Other_Embed_Code">
-					<value>
-						<![CDATA[]]>
-					</value>
-				</Data>
-				<Data name="Paragraph_Text">
-					<value>
-						<![CDATA[Catherine Becker - lalama128@gmail.com]]>
-					</value>
-				</Data>
-				<Data name="Link_URL">
-					<value>
-						<![CDATA[]]>
-					</value>
-				</Data>
-				<Data name="Link_Text">
-					<value>
-						<![CDATA[]]>
-					</value>
-				</Data>
-			</ExtendedData>
-			<Point>
-				<coordinates>
-					-155.1249539,19.6865946
-				</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark id="p16">
+			<Placemark id="p21">
+				<name>
+					<![CDATA[Kemionsaari, Finland]]>
+				</name>
+				<snippet>
+				</snippet>
+				<description>
+				</description>
+				<styleUrl>
+					#style_Template6
+				</styleUrl>
+				<ExtendedData>
+					<Data name="Title">
+						<value>
+							<![CDATA[Kemionsaari, Finland]]>
+						</value>
+					</Data>
+					<Data name="Subtitle">
+						<value>
+							<![CDATA[]]>
+						</value>
+					</Data>
+					<Data name="Other_Embed_Code">
+						<value>
+							<![CDATA[]]>
+						</value>
+					</Data>
+					<Data name="Paragraph_Text">
+						<value>
+							<![CDATA[taki'h & timo, takih@rememberyourself.live]]>
+						</value>
+					</Data>
+					<Data name="Link_URL">
+						<value>
+							<![CDATA[]]>
+						</value>
+					</Data>
+					<Data name="Link_Text">
+						<value>
+							<![CDATA[]]>
+						</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>
+						22.7189096,60.1648712
+					</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="p22">
+				<name>
+					<![CDATA[Davos, Switzerland ]]>
+				</name>
+				<snippet>
+				</snippet>
+				<description>
+				</description>
+				<styleUrl>
+					#style_Template6
+				</styleUrl>
+				<ExtendedData>
+					<Data name="Title">
+						<value>
+							<![CDATA[Davos, Switzerland ]]>
+						</value>
+					</Data>
+					<Data name="Subtitle">
+						<value>
+							<![CDATA[]]>
+						</value>
+					</Data>
+					<Data name="Other_Embed_Code">
+						<value>
+							<![CDATA[]]>
+						</value>
+					</Data>
+					<Data name="Paragraph_Text">
+						<value>
+							<![CDATA[Seraina Duveen]]>
+						</value>
+					</Data>
+					<Data name="Link_URL">
+						<value>
+							<![CDATA[]]>
+						</value>
+					</Data>
+					<Data name="Link_Text">
+						<value>
+							<![CDATA[]]>
+						</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>
+						9.7738807,46.7648886
+					</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="p23">
+				<name>
+					<![CDATA[Der Steiermark, Austria]]>
+				</name>
+				<snippet>
+				</snippet>
+				<description>
+				</description>
+				<styleUrl>
+					#style_Template6
+				</styleUrl>
+				<ExtendedData>
+					<Data name="Title">
+						<value>
+							<![CDATA[Der Steiermark, Austria]]>
+						</value>
+					</Data>
+					<Data name="Subtitle">
+						<value>
+							<![CDATA[]]>
+						</value>
+					</Data>
+					<Data name="Other_Embed_Code">
+						<value>
+							<![CDATA[]]>
+						</value>
+					</Data>
+					<Data name="Paragraph_Text">
+						<value>
+							<![CDATA[Richard Sion Windelov]]>
+						</value>
+					</Data>
+					<Data name="Link_URL">
+						<value>
+							<![CDATA[]]>
+						</value>
+					</Data>
+					<Data name="Link_Text">
+						<value>
+							<![CDATA[]]>
+						</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>
+						14.3067617,47.2185731
+					</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="p24">
+				<name>
+					<![CDATA[Tegna, Switzerland]]>
+				</name>
+				<snippet>
+				</snippet>
+				<description>
+				</description>
+				<styleUrl>
+					#style_Template6
+				</styleUrl>
+				<ExtendedData>
+					<Data name="Title">
+						<value>
+							<![CDATA[Tegna, Switzerland]]>
+						</value>
+					</Data>
+					<Data name="Subtitle">
+						<value>
+							<![CDATA[]]>
+						</value>
+					</Data>
+					<Data name="Other_Embed_Code">
+						<value>
+							<![CDATA[]]>
+						</value>
+					</Data>
+					<Data name="Paragraph_Text">
+						<value>
+							<![CDATA[Mico Tognola mico.tognola@gmail.com]]>
+						</value>
+					</Data>
+					<Data name="Link_URL">
+						<value>
+							<![CDATA[]]>
+						</value>
+					</Data>
+					<Data name="Link_Text">
+						<value>
+							<![CDATA[]]>
+						</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>
+						8.7342652,46.1886896
+					</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="p25">
+				<name>
+					<![CDATA[Iceland]]>
+				</name>
+				<snippet>
+				</snippet>
+				<description>
+				</description>
+				<styleUrl>
+					#style_Template6
+				</styleUrl>
+				<ExtendedData>
+					<Data name="Title">
+						<value>
+							<![CDATA[Iceland]]>
+						</value>
+					</Data>
+					<Data name="Subtitle">
+						<value>
+							<![CDATA[]]>
+						</value>
+					</Data>
+					<Data name="Other_Embed_Code">
+						<value>
+							<![CDATA[]]>
+						</value>
+					</Data>
+					<Data name="Paragraph_Text">
+						<value>
+							<![CDATA[Aviv]]>
+						</value>
+					</Data>
+					<Data name="Link_URL">
+						<value>
+							<![CDATA[]]>
+						</value>
+					</Data>
+					<Data name="Link_Text">
+						<value>
+							<![CDATA[]]>
+						</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>
+						-23.7276555,64.796776
+					</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="p26">
+				<name>
+					<![CDATA[Moscow, Russia]]>
+				</name>
+				<snippet>
+				</snippet>
+				<description>
+				</description>
+				<styleUrl>
+					#style_Template6
+				</styleUrl>
+				<ExtendedData>
+					<Data name="Title">
+						<value>
+							<![CDATA[Moscow, Russia]]>
+						</value>
+					</Data>
+					<Data name="Subtitle">
+						<value>
+							<![CDATA[]]>
+						</value>
+					</Data>
+					<Data name="Other_Embed_Code">
+						<value>
+							<![CDATA[]]>
+						</value>
+					</Data>
+					<Data name="Paragraph_Text">
+						<value>
+							<![CDATA[Egor & Katia Azanov]]>
+						</value>
+					</Data>
+					<Data name="Link_URL">
+						<value>
+							<![CDATA[]]>
+						</value>
+					</Data>
+					<Data name="Link_Text">
+						<value>
+							<![CDATA[]]>
+						</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>
+						36.8251502,55.5807482
+					</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="p27">
+				<name>
+					<![CDATA[Berlin, Germany]]>
+				</name>
+				<snippet>
+				</snippet>
+				<description>
+				</description>
+				<styleUrl>
+					#style_Template6
+				</styleUrl>
+				<ExtendedData>
+					<Data name="Title">
+						<value>
+							<![CDATA[Berlin, Germany]]>
+						</value>
+					</Data>
+					<Data name="Subtitle">
+						<value>
+							<![CDATA[]]>
+						</value>
+					</Data>
+					<Data name="Other_Embed_Code">
+						<value>
+							<![CDATA[]]>
+						</value>
+					</Data>
+					<Data name="Paragraph_Text">
+						<value>
+							<![CDATA[Jon Darall-Rew]]>
+						</value>
+					</Data>
+					<Data name="Link_URL">
+						<value>
+							<![CDATA[]]>
+						</value>
+					</Data>
+					<Data name="Link_Text">
+						<value>
+							<![CDATA[]]>
+						</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>
+						13.2846508,52.5067614
+					</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="p28">
+				<name>
+					<![CDATA[Lech River, Germany]]>
+				</name>
+				<snippet>
+				</snippet>
+				<description>
+				</description>
+				<styleUrl>
+					#style_Template6
+				</styleUrl>
+				<ExtendedData>
+					<Data name="Title">
+						<value>
+							<![CDATA[Lech River, Germany]]>
+						</value>
+					</Data>
+					<Data name="Subtitle">
+						<value>
+							<![CDATA[]]>
+						</value>
+					</Data>
+					<Data name="Other_Embed_Code">
+						<value>
+							<![CDATA[]]>
+						</value>
+					</Data>
+					<Data name="Paragraph_Text">
+						<value>
+							<![CDATA[Sophia Hertle -sophia.hertle@gmx.de]]>
+						</value>
+					</Data>
+					<Data name="Link_URL">
+						<value>
+							<![CDATA[]]>
+						</value>
+					</Data>
+					<Data name="Link_Text">
+						<value>
+							<![CDATA[]]>
+						</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>
+						9.934472,47.962659
+					</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder id="folderRow29">
 			<name>
-				<![CDATA[Kangaroo Ground, Victoria]]>
+				<![CDATA[Africa]]>
 			</name>
-			<snippet>
-			</snippet>
-			<description>
-			</description>
-			<styleUrl>
-				#style_Template6
-			</styleUrl>
-			<ExtendedData>
-				<Data name="Title">
-					<value>
-						<![CDATA[Kangaroo Ground, Victoria]]>
-					</value>
-				</Data>
-				<Data name="Subtitle">
-					<value>
-						<![CDATA[]]>
-					</value>
-				</Data>
-				<Data name="Other_Embed_Code">
-					<value>
-						<![CDATA[]]>
-					</value>
-				</Data>
-				<Data name="Paragraph_Text">
-					<value>
-						<![CDATA[Phoenix Onesong Marolda]]>
-					</value>
-				</Data>
-				<Data name="Link_URL">
-					<value>
-						<![CDATA[]]>
-					</value>
-				</Data>
-				<Data name="Link_Text">
-					<value>
-						<![CDATA[]]>
-					</value>
-				</Data>
-			</ExtendedData>
-			<Point>
-				<coordinates>
-					145.1638297,-37.6911487
-				</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark id="p17">
-			<name>
-				<![CDATA[Melburne, Victoria]]>
-			</name>
-			<snippet>
-			</snippet>
-			<description>
-			</description>
-			<styleUrl>
-				#style_Template6
-			</styleUrl>
-			<ExtendedData>
-				<Data name="Title">
-					<value>
-						<![CDATA[Melburne, Victoria ]]>
-					</value>
-				</Data>
-				<Data name="Subtitle">
-					<value>
-						<![CDATA[]]>
-					</value>
-				</Data>
-				<Data name="Other_Embed_Code">
-					<value>
-						<![CDATA[]]>
-					</value>
-				</Data>
-				<Data name="Paragraph_Text">
-					<value>
-						<![CDATA[Stephanie Phillips - stephanie@tantricsynergy.com.au]]>
-					</value>
-				</Data>
-				<Data name="Link_URL">
-					<value>
-						<![CDATA[]]>
-					</value>
-				</Data>
-				<Data name="Link_Text">
-					<value>
-						<![CDATA[]]>
-					</value>
-				</Data>
-			</ExtendedData>
-			<Point>
-				<coordinates>
-					144.7729562,-37.9722342
-				</coordinates>
-			</Point>
-		</Placemark>
-		<!-- no data - row 18 -->
-		<!-- no data - row 19 -->
-		<!-- no data - row 20 -->
-		<!-- no data - row 21 -->
-		<!-- no data - row 22 -->
-		<!-- no data - row 23 -->
-		<!-- no data - row 24 -->
-		<!-- no data - row 25 -->
-		<!-- no data - row 26 -->
-		<!-- no data - row 27 -->
-		<!-- no data - row 28 -->
-		<!-- no data - row 29 -->
-		<!-- no data - row 30 -->
-		<!-- no data - row 31 -->
+			<Placemark id="p29">
+				<name>
+					<![CDATA[Ede, Nigeria, Shamballa School Nigeria]]>
+				</name>
+				<snippet>
+				</snippet>
+				<description>
+				</description>
+				<styleUrl>
+					#style_Template6
+				</styleUrl>
+				<ExtendedData>
+					<Data name="Title">
+						<value>
+							<![CDATA[Ede, Nigeria, Shamballa School Nigeria]]>
+						</value>
+					</Data>
+					<Data name="Subtitle">
+						<value>
+							<![CDATA[]]>
+						</value>
+					</Data>
+					<Data name="Other_Embed_Code">
+						<value>
+							<![CDATA[]]>
+						</value>
+					</Data>
+					<Data name="Paragraph_Text">
+						<value>
+							<![CDATA[isikasim6@gmail.com]]>
+						</value>
+					</Data>
+					<Data name="Link_URL">
+						<value>
+							<![CDATA[]]>
+						</value>
+					</Data>
+					<Data name="Link_Text">
+						<value>
+							<![CDATA[]]>
+						</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>
+						4.4087786,7.7285519
+					</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="p30">
+				<name>
+					<![CDATA[Cape Town, South Africa]]>
+				</name>
+				<snippet>
+				</snippet>
+				<description>
+				</description>
+				<styleUrl>
+					#style_Template6
+				</styleUrl>
+				<ExtendedData>
+					<Data name="Title">
+						<value>
+							<![CDATA[Cape Town, South Africa]]>
+						</value>
+					</Data>
+					<Data name="Subtitle">
+						<value>
+							<![CDATA[]]>
+						</value>
+					</Data>
+					<Data name="Other_Embed_Code">
+						<value>
+							<![CDATA[]]>
+						</value>
+					</Data>
+					<Data name="Paragraph_Text">
+						<value>
+							<![CDATA[Alex Diepering]]>
+						</value>
+					</Data>
+					<Data name="Link_URL">
+						<value>
+							<![CDATA[]]>
+						</value>
+					</Data>
+					<Data name="Link_Text">
+						<value>
+							<![CDATA[]]>
+						</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>
+						18.3758786,-33.9152208
+					</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="p31">
+				<name>
+					<![CDATA[Cairo, Egypt]]>
+				</name>
+				<snippet>
+				</snippet>
+				<description>
+				</description>
+				<styleUrl>
+					#style_Template6
+				</styleUrl>
+				<ExtendedData>
+					<Data name="Title">
+						<value>
+							<![CDATA[Cairo, Egypt]]>
+						</value>
+					</Data>
+					<Data name="Subtitle">
+						<value>
+							<![CDATA[]]>
+						</value>
+					</Data>
+					<Data name="Other_Embed_Code">
+						<value>
+							<![CDATA[]]>
+						</value>
+					</Data>
+					<Data name="Paragraph_Text">
+						<value>
+							<![CDATA[Karim Shoukry - Kar.shoukry@gmail.com]]>
+						</value>
+					</Data>
+					<Data name="Link_URL">
+						<value>
+							<![CDATA[]]>
+						</value>
+					</Data>
+					<Data name="Link_Text">
+						<value>
+							<![CDATA[]]>
+						</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>
+						31.223445,30.0594838
+					</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
 		<!-- no data - row 32 -->
 		<!-- no data - row 33 -->
 		<!-- no data - row 34 -->
